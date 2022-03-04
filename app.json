@@ -1,0 +1,24 @@
+{
+
+    "name": "Raganork",
+
+    "description": "Raganork bot - Extra featured, fully customisable WhatsApp Public/User bot.",
+
+    "logo": "https://www.linkpicture.com/q/rgnk.jpg",
+
+    "keywords": ["api"],
+
+    "repository": "https://github.com/MIDU-SER/api",
+
+    "addons": [{
+
+      "plan": "heroku-postgresql"
+
+    }],
+
+    "buildpacks": [{
+
+
+      }]
+
+  }
